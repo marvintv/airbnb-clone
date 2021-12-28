@@ -14,6 +14,7 @@
 
 ## Deployment URL: https://vercel.com/marvintv/airbnb-clone
 
+## Preview of website:
 <p align="center">
     <img src="https://i.imgur.com/J7u3Kbk.png" alt="Logo" width=400 height=250>
 </p>
