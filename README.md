@@ -17,7 +17,7 @@
 
 <p align="center">
     <h1>Preview of website</h1>
-    <img src="https://i.imgur.com/J7u3Kbk.png" alt="Logo" width=400 height=250>
+    <img align="center" src="https://i.imgur.com/J7u3Kbk.png" alt="Logo" width=400 height=250>
 </p>
 
 
