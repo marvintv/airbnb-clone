@@ -3,6 +3,9 @@ import Footer from "../components/Footer"
 import { useRouter } from "next/router";
 import moment from 'moment';
 import InfoCard from "../components/InfoCard";
+import Map from "../components/Map";
+
+
 const Search = ({searchResults}) => {
     const router = useRouter();
 
@@ -41,6 +44,9 @@ const Search = ({searchResults}) => {
                     ))}
 
                     </div>
+                </section>
+                <section className="hidden md:inline-flex xl:min-w-[600px]">   
+                    <Map searchResults={searchResults}/>
                 </section>
             </main>
             <Footer/> </div>
