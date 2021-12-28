@@ -25,6 +25,8 @@
 - Next.js/React
 - TailwindCSS
 - MapboxGL Library
+
+
 Components can be found here:
 
 ```
