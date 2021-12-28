@@ -21,8 +21,10 @@
 </p>
 
 
-## What's included
-
+## What's Technologies were used
+- Next.js/React
+- TailwindCSS
+- MapboxGL Library
 Components can be found here:
 
 ```
@@ -36,12 +38,6 @@ components/
 
 
 ## Contributing
-
-Please read through our [contributing guidelines](https://reponame/blob/master/CONTRIBUTING.md). Included are directions for opening issues, coding standards, and notes on development.
-
-Moreover, all HTML and CSS should conform to the [Code Guide](https://github.com/mdo/code-guide), maintained by [Main author](https://github.com/usernamemainauthor).
-
-Editor preferences are available in the [editor config](https://reponame/blob/master/.editorconfig) for easy use in common text editors. Read more and download plugins at <https://editorconfig.org/>.
 
 ## Developers
 
