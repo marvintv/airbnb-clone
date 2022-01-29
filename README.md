@@ -12,7 +12,7 @@
   </p>
 </p>
 
-## Deployment URL: https://vercel.com/marvintv/airbnb-clone
+## Deployment URL: https://airbnb-clone-haz0oqaof-marvintv.vercel.app/
 
 
 <p align="center">
