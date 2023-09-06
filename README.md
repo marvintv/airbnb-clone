@@ -10,7 +10,7 @@
   </p>
 </p>
 
-## Deployment URL: https://vercel.com/marvintv/airbnb-clone
+## Deployment URL: [https://vercel.com/marvintv/airbnb-clone](https://airbnb-clone-two-eosin.vercel.app/)
 
 <p align="center">
     <img src="https://i.imgur.com/J7u3Kbk.png" alt="Logo" width=400 height=250>
