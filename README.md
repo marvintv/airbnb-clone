@@ -1,9 +1,9 @@
 <p align="center">
   <a href="https://example.com/">
-    <img src="https://via.placeholder.com/72" alt="Logo" width=72 height=72>
+    <img src="https://i.imgur.com/jt0kZ6t.png" alt="Logo" width=72 height=72>
   </a>
 
-  <h3 align="center">Logo</h3>
+  <h3 align="center">AirBnb Clone</h3>
 
   <p align="center">
     Short description
