@@ -1,62 +1,35 @@
 <p align="center">
-  <a href="https://example.com/">
+  
     <img src="https://i.imgur.com/jt0kZ6t.png" alt="Logo" width=250 height=72>
-  </a>
+  
 
   <h3 align="center">AirBnb Clone</h3>
 
   <p align="center">
-    Short description
+    Airbnb clone using Next.js/React and TailwindCSS
     <br>
-    <a href="https://reponame/issues/new?template=bug.md">Report bug</a>
-    ·
-    <a href="https://reponame/issues/new?template=feature.md&labels=feature">Request feature</a>
+
   </p>
 </p>
+## Deployment URL: https://vercel.com/marvintv/airbnb-clone
 
-
-## Table of contents
-
-- [Quick start](#quick-start)
-- [Status](#status)
-- [What's included](#whats-included)
-- [Bugs and feature requests](#bugs-and-feature-requests)
-- [Contributing](#contributing)
-- [Creators](#creators)
-- [Thanks](#thanks)
-- [Copyright and license](#copyright-and-license)
-
-
-## Quick start
-
-Some text
-
-- Instruction 1
-- Instruction 2
-- Instruction 3
-
-## Status
-
-Here goes all the budgets
-
+<p align="center">
+  
+    <img src="https://i.imgur.com/J7u3Kbk.png" alt="Logo" width=250 height=72>
+</p>
 ## What's included
 
-Some text
+Components can be found here:
 
-```text
-folder1/
-└── folder2/
-    ├── folder3/
-    │   ├── file1
-    │   └── file2
-    └── folder4/
-        ├── file3
-        └── file4
+```
+pages/
+└──-----index.js
+components/
+    ├── 
+    |--
+    |--
 ```
 
-## Bugs and feature requests
-
-Have a bug or a feature request? Please first read the [issue guidelines](https://reponame/blob/master/CONTRIBUTING.md) and search for existing and closed issues. If your problem or idea is not addressed yet, [please open a new issue](https://reponame/issues/new).
 
 ## Contributing
 
@@ -66,18 +39,9 @@ Moreover, all HTML and CSS should conform to the [Code Guide](https://github.com
 
 Editor preferences are available in the [editor config](https://reponame/blob/master/.editorconfig) for easy use in common text editors. Read more and download plugins at <https://editorconfig.org/>.
 
-## Creators
+## Developers
 
-**Creator 1**
+**Developer**
 
-- <https://github.com/usernamecreator1>
+- <https://github.com/marvintv>
 
-## Thanks
-
-Some Text
-
-## Copyright and license
-
-Code and documentation copyright 2011-2018 the authors. Code released under the [MIT License](https://reponame/blob/master/LICENSE).
-
-Enjoy :metal:
