@@ -14,9 +14,10 @@
 ## Deployment URL: https://vercel.com/marvintv/airbnb-clone
 
 <p align="center">
-  
     <img src="https://i.imgur.com/J7u3Kbk.png" alt="Logo" width=250 height=72>
 </p>
+
+
 ## What's included
 
 Components can be found here:
