@@ -1,8 +1,5 @@
 <p align="center">
   
-    <p align="center">
-    <img src="https://i.imgur.com/jt0kZ6t.png" alt="Logo" width=250 height=72>
-  </p>
 
   <h3 align="center">AirBnb Clone</h3>
 
